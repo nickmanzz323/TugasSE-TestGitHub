@@ -4,7 +4,7 @@ struct dataObat{
 	char code[7], name[50], disease[50];
 	int stock, price;
 }obat[25] = {
-			 {"DIZ001", "Paramex", "Dizziness", 120, 14000}, 
+			 {"DIZ001", "Pseudo", "Dizziness", 120, 14000}, 
 			 {"FLU001", "Panadol", , "Flu & Fever", 57, 8000}, 
 			 {"DIA001", "Diatabs", "Diarrhea", 10, 6500}, 
 			 {"DIA002", "Diapet", "Diarrhea", 18, 6000}
